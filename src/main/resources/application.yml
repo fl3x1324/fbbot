@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: fbbot
+  server:
+    port: 3000

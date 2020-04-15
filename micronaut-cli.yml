@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: church.ruse
+---
+testFramework: junit
+sourceLanguage: java
