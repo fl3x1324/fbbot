@@ -1,5 +1,6 @@
 package church.ruse.data;
 
+import java.util.Date;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
@@ -11,6 +12,6 @@ public class Messaging {
 
   private Sender sender;
   private Recipient recipient;
-  private int timestamp;
+  private Date timestamp;
   private Message message;
 }
